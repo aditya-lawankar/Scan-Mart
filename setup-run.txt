@@ -1,0 +1,12 @@
+pip install keras
+pip install tensorflow
+pip install pillow
+pip install flask
+pip install numpy
+
+change dir in UPLOAD_FOLDER in app.py
+
+set FLASK_APP=index.py
+
+Run the server:
+flask run
